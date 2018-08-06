@@ -47,6 +47,7 @@ col_high_coeff = ['meantempm_prior_1',  'meantempm_prior_2','meantempm_prior_3',
 new_df = df[['meantempm'] + col_high_coeff]
 
 print new_df.columns
+#space3
 
 for col in new_df.columns:
     # create a boolean array of values representing nans
