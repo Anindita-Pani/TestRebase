@@ -31,7 +31,7 @@ from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
 from sklearn.decomposition import RandomizedPCA
 from sklearn.svm import SVC
-
+#dev comm
 # Display progress logs on stdout
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(message)s')
 
